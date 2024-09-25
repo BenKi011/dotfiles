@@ -1,0 +1,6 @@
+2024/09/13-10:01:02.416 62b Creating DB /home/benki/.config/google-chrome/Default/WebStorage/40/IndexedDB/indexeddb.leveldb since it was missing.
+2024/09/13-10:01:02.894 62b Reusing MANIFEST /home/benki/.config/google-chrome/Default/WebStorage/40/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/13-10:01:15.841 62e Level-0 table #5: started
+2024/09/13-10:01:15.898 62e Level-0 table #5: 385 bytes OK
+2024/09/13-10:01:15.972 62e Delete type=0 #3
+2024/09/13-10:01:15.975 62c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

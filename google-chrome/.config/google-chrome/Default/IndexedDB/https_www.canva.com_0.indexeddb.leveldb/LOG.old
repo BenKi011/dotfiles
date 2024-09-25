@@ -1,0 +1,37 @@
+2024/09/12-09:27:04.289 c05 Reusing MANIFEST /home/benki/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/12-09:27:04.289 c05 Recovering log #192
+2024/09/12-09:27:04.623 c05 Reusing old log /home/benki/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000192.log 
+2024/09/12-09:27:27.863 c05 Level-0 table #197: started
+2024/09/12-09:27:27.987 c05 Level-0 table #197: 1341123 bytes OK
+2024/09/12-09:27:28.038 c07 Current memtable full; waiting...
+2024/09/12-09:27:28.110 c05 Delete type=0 #192
+2024/09/12-09:27:28.112 c05 Level-0 table #199: started
+2024/09/12-09:27:28.159 c05 Level-0 table #199: 562 bytes OK
+2024/09/12-09:27:28.233 c05 Delete type=0 #196
+2024/09/12-09:27:28.234 bfa Manual compaction at level-0 from '\x00D\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at '\x00D\x00\x00\x05' @ 707096 : 1
+2024/09/12-09:27:28.234 bfa Compacting 1@0 + 1@1 files
+2024/09/12-09:27:28.360 bfa Generated table #200@0: 10779 keys, 143290 bytes
+2024/09/12-09:27:28.360 bfa Compacted 1@0 + 1@1 files => 143290 bytes
+2024/09/12-09:27:28.433 bfa compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/12-09:27:28.436 bfa Manual compaction at level-0 from '\x00D\x00\x00\x05' @ 707096 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/12-09:27:28.438 bfa Manual compaction at level-0 from '\x00C\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00D\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/12-09:28:27.864 c09 Compacting 1@1 + 1@2 files
+2024/09/12-09:28:28.017 c09 Generated table #201@1: 404 keys, 97089 bytes
+2024/09/12-09:28:28.017 c09 Compacted 1@1 + 1@2 files => 97089 bytes
+2024/09/12-09:28:28.091 c09 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/12-09:28:28.092 c09 Delete type=2 #200
+2024/09/12-09:28:28.093 c09 Delete type=2 #194
+2024/09/12-09:28:28.093 c09 Delete type=2 #197
+2024/09/12-09:28:28.093 c09 Delete type=2 #199
+2024/09/12-09:28:34.530 c26 Level-0 table #203: started
+2024/09/12-09:28:34.586 c26 Level-0 table #203: 36795 bytes OK
+2024/09/12-09:28:34.660 c26 Delete type=0 #198
+2024/09/12-09:28:34.660 c26 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/12-09:28:34.661 c26 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x011\x00U\x00A\x00G\x00A\x00x\x00O\x00j\x00d\x005\x00s\x00Q\x00-\x00B\x00A\x00G\x00A\x00x\x00G\x00G\x00I\x00K\x00G\x00A\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00_\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00_\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e' @ 707172 : 1
+2024/09/12-09:28:34.661 c26 Compacting 1@1 + 1@2 files
+2024/09/12-09:28:34.720 c26 Generated table #204@1: 369 keys, 85273 bytes
+2024/09/12-09:28:34.720 c26 Compacted 1@1 + 1@2 files => 85273 bytes
+2024/09/12-09:28:34.794 c26 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/12-09:28:34.794 c26 Delete type=2 #203
+2024/09/12-09:28:34.795 c26 Delete type=2 #201
+2024/09/12-09:28:34.795 c26 Manual compaction at level-1 from '\x00\x03\x01\x02\x011\x00U\x00A\x00G\x00A\x00x\x00O\x00j\x00d\x005\x00s\x00Q\x00-\x00B\x00A\x00G\x00A\x00x\x00G\x00G\x00I\x00K\x00G\x00A\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00_\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00_\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e' @ 707172 : 1 .. (end); will stop at (end)

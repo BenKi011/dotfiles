@@ -1,0 +1,113 @@
+{
+    "bar": {
+        "width": 1920, 
+        "height": 22,
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:foreground}",
+        "border_color": "${xrdb:color14}",
+        "border_width": 2,
+        "padding": 0,
+        "position": "top",  
+        "radius": 10
+    },
+
+    "modules-left": ["pm", "rfl", "ws"],
+    "modules-center": ["ap", "dt", "spo"],
+    "modules-right": ["btr", "brt", "sp", "wf", "vol", "up"],
+
+    "colors": {
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:foreground}",
+        "accent": "${xrdb:color14}"
+    },
+
+    "fonts": [
+        "JetBrainsMono Nerd Font Regular 12",
+        "JetBrainsMono Nerd Font Bold 15",
+        "JetBrainsMono Nerd Font Bold 21",
+        "Noto Sans CJK JP 12",
+        "Noto Sans CJK KR 12",
+        "Noto Sans CJK TC 12",
+        "Noto Sans CJK SC 12",
+        "Noto Sans Bengali 12"
+    ],
+
+    "pm": {
+        "format": "󰣇",
+        "on-click": "sh ~/.config/rofi/powermenu/powermenu.sh",
+        "background": "${xrdb:color14}",
+        "foreground": "${xrdb:background}"
+    },
+
+    "rfl": {
+        "format": "",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color14}"
+    },
+
+    "ws": {
+        "format": "{icon} {name}",
+        "on-click": "bspc desktop -f {name}",
+        "color-focused": "${xrdb:color10}",
+        "color-occupied": "${xrdb:foreground}",
+        "color-urgent": "#F37F97"
+    },
+
+    "ap": {
+        "format": "{class}",
+        "on-click": "xprop",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color14}"
+    },
+
+    "dt": {
+        "format": "{time} {date}",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color14}"
+    },
+
+    "spo": {
+        "format": "{output}",
+        "on-click": "playerctl play-pause",
+        "on-click-right": "playerctl next",
+        "on-click-middle": "playerctl previous",
+        "on-double-click-left": "sh ~/.config/polybar/scripts/spo.sh",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color14}"
+    },
+
+    "btr": {
+        "format": "{capacity}",
+        "on-click": "xfce4-power-manager-settings",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color14}"
+    },
+
+    "brt": {
+        "format": "{percentage}",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color14}"
+    },
+
+    "vol": {
+        "format": "{volume}",
+        "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+        "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",
+        "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color14}"
+    },
+
+    "up": {
+        "format": "{output}",
+        "background": "${xrdb:background}",
+        "foreground": "#1793D1"
+    },
+
+    "wf": {
+        "format": "{output}",
+        "on-click": "sh ~/.config/polybar/scripts/swi.sh",
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:color7}"
+    }
+}

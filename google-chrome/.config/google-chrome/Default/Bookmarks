@@ -1,0 +1,102 @@
+{
+   "checksum": "da9583bea694af8b79f223167f7fb5d2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13368536172385825",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13368536370133769",
+            "date_last_used": "0",
+            "guid": "2b618c69-09f9-4b11-9fd3-d6a27e719229",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Wallpaper Theme Converter",
+            "type": "url",
+            "url": "https://notneelpatel.tech/WallpaperThemeConverter/"
+         }, {
+            "date_added": "13369230023546285",
+            "date_last_used": "0",
+            "guid": "027c1d51-fb60-4f31-8d38-3d449162b101",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - Nishantdd/.dotfiles-catppuccin: [Arch] [Hyprland] catppuccin dotfiles",
+            "type": "url",
+            "url": "https://github.com/Nishantdd/.dotfiles-catppuccin/tree/main"
+         }, {
+            "date_added": "13369695769656759",
+            "date_last_used": "0",
+            "guid": "d0387fb6-2acd-4472-a063-4c026c1b8738",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - ThePrimeagen/init.lua at 249f3b14cc517202c80c6babd0f9ec548351ec71",
+            "type": "url",
+            "url": "https://github.com/ThePrimeagen/init.lua/tree/249f3b14cc517202c80c6babd0f9ec548351ec71"
+         }, {
+            "date_added": "13369823039405419",
+            "date_last_used": "0",
+            "guid": "a2106c97-833a-47b9-9531-9aa1c0a2c245",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ERROR",
+            "type": "url",
+            "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/error.jsp"
+         }, {
+            "date_added": "13370259487979024",
+            "date_last_used": "0",
+            "guid": "cafd164a-e8cb-4afd-b5a9-5fd9490fc5bf",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Purple Pastel Cute Aesthetic Notes A4 Document - Document (A4)",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGQJ0ljWk8/mgcUtBnwagDxz0Ic3qLaqQ/edit"
+         }, {
+            "date_added": "13370272500178143",
+            "date_last_used": "0",
+            "guid": "77bea738-4127-412c-8f4a-6abcfc0e97f9",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Telegram",
+            "type": "url",
+            "url": "https://web.telegram.org/a/"
+         } ],
+         "date_added": "13368536172385830",
+         "date_last_used": "0",
+         "date_modified": "13370272500178143",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13368536172385832",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

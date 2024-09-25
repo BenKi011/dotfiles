@@ -1,0 +1,14 @@
+2024/09/02-00:32:29.826 50c Reusing MANIFEST /home/benki/.config/google-chrome/Default/IndexedDB/https_w1.nites.is_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/02-00:32:29.826 50c Recovering log #85
+2024/09/02-00:32:29.827 50c Reusing old log /home/benki/.config/google-chrome/Default/IndexedDB/https_w1.nites.is_0.indexeddb.leveldb/000085.log 
+2024/09/02-00:32:29.827 50c Delete type=2 #83
+2024/09/02-00:32:30.149 51c Level-0 table #90: started
+2024/09/02-00:32:30.198 51c Level-0 table #90: 1361 bytes OK
+2024/09/02-00:32:30.274 51c Delete type=0 #85
+2024/09/02-00:32:30.275 50b Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 2113 : 1
+2024/09/02-00:32:30.275 50b Compacting 1@0 + 1@1 files
+2024/09/02-00:32:30.332 50b Generated table #91@0: 5 keys, 255 bytes
+2024/09/02-00:32:30.333 50b Compacted 1@0 + 1@1 files => 255 bytes
+2024/09/02-00:32:30.406 50b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/02-00:32:30.406 50b Delete type=2 #90
+2024/09/02-00:32:30.415 50b Manual compaction at level-0 from '\x00\x18\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 2113 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)

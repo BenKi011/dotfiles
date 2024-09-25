@@ -1,0 +1,76 @@
+/* Define colors using Catppuccin palette with increased transparency */
+@define-color clear rgba(0, 0, 0, 0.0); /* Fully transparent */
+@define-color primary rgba(0, 0, 0, 0.75); /* Semi-transparent primary */
+@define-color background rgba(30, 30, 46, 0.8); /* Slightly transparent background */
+@define-color foreground rgba(224, 223, 244, 0.9); /* Semi-transparent foreground */
+@define-color accent rgba(205, 214, 244, 0.9); /* Semi-transparent accent */
+@define-color highlight rgba(88, 91, 112, 0.8); /* Slightly transparent highlight */
+
+/* Wofi window styling */
+window {
+    margin: 2px;
+    border: 2px solid;
+    border-color: #313244;
+    background-color: @background;
+    border-radius: 10px;
+    font-family: monospace;
+    font-size: 14px;
+}
+
+/* Input field styling */
+#input {
+    padding: 2px;
+    margin: 4px;
+    margin-bottom: 8px;
+    border: none;
+    color: @foreground;
+    background-color: rgba(49, 50, 68, 0.7); /* Increased transparency */
+    outline: none;
+    border-radius: 8px;
+}
+
+/* Inner box styling */
+#inner-box {
+    margin: 2px;
+    border: 0px solid;
+    background-color: @clear;
+    border-radius: 8px;
+}
+
+/* Outer box styling */
+#outer-box {
+    margin: 5px;
+    border: none;
+    border-radius: 8px;
+    background-color: @clear;
+}
+
+/* Scroll styling */
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+/* Selected text styling */
+#text:selected {
+    color: @foreground;
+    background-color: @highlight;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Entry styling */
+#entry {
+    margin: 0px 0px;
+    border: none;
+    border-radius: 0px;
+    background-color: @clear;
+}
+
+/* Entry selection styling */
+#entry:selected {
+    margin: 0px 0px;
+    border: none;
+    border-radius: 8px;
+    background-color: @highlight;
+}

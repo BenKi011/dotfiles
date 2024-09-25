@@ -1,0 +1,6 @@
+2024/09/18-00:35:50.087 3b78 Reusing MANIFEST /home/benki/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/18-00:35:50.088 3b78 Recovering log #3
+2024/09/18-00:35:50.176 3b78 Reusing old log /home/benki/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2024/09/18-00:36:01.334 3b6d Level-0 table #5: started
+2024/09/18-00:36:01.484 3b6d Level-0 table #5: 4030376 bytes OK
+2024/09/18-00:36:01.633 3b6d Delete type=0 #3

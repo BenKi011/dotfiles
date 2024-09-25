@@ -1,0 +1,10 @@
+2024-08-25 10:08:24.697 [info] Started local extension host with pid 4016.
+2024-08-25 10:08:28.466 [info] [perf] Render performance baseline is 59ms
+2024-08-25 10:08:35.827 [error] Unable to read file '/home/benki/.config/wofi/style.css' (Error: File not modified since): Error: Unable to read file '/home/benki/.config/wofi/style.css' (Error: File not modified since)
+    at r.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:662:19353)
+    at r.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:662:19238)
+    at async b.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:35468)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:35225)
+    at async P.Db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2439:12236)
+    at async P.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2439:10648)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:31253

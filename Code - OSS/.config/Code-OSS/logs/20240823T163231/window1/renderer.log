@@ -1,0 +1,12 @@
+2024-08-23 16:32:32.530 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/benki/.config/hypr/keybindingsnew.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-08-23 16:32:33.031 [info] Started local extension host with pid 13911.
+2024-08-23 16:32:36.484 [info] [perf] Render performance baseline is 94ms
+2024-08-23 16:33:52.685 [error] Unable to read file '/home/benki/.config/hypr/keybindingsnew.conf' (Error: File not modified since): Error: Unable to read file '/home/benki/.config/hypr/keybindingsnew.conf' (Error: File not modified since)
+    at r.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:662:19353)
+    at r.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:662:19238)
+    at async b.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:35468)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:35225)
+    at async P.Db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2439:12236)
+    at async P.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2439:10648)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:31253
+2024-08-23 16:54:25.302 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

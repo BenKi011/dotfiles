@@ -1,0 +1,34 @@
+{
+    "bar": {
+        "width": 1920, 
+        "height": 22,
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:foreground}",
+        "border_color": "${xrdb:color14}",
+        "border_width": 2,
+        "padding": 0,
+        "position": "top",  
+        "radius": 10
+    },
+
+    "modules-left": ["pm", "rfl", "ws"],
+    "modules-center": ["ap", "dt", "spo"],
+    "modules-right": ["btr", "brt", "sp", "wf", "vol", "up"],
+
+    "colors": {
+        "background": "${xrdb:background}",
+        "foreground": "${xrdb:foreground}",
+        "accent": "${xrdb:color14}"
+    },
+
+    "fonts": [
+        "JetBrainsMono Nerd Font Regular 12",
+        "JetBrainsMono Nerd Font Bold 15",
+        "JetBrainsMono Nerd Font Bold 21",
+        "Noto Sans CJK JP 12",
+        "Noto Sans CJK KR 12",
+        "Noto Sans CJK TC 12",
+        "Noto Sans CJK SC 12",
+        "Noto Sans Bengali 12"
+    ]
+}

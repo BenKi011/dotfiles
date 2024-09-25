@@ -1,0 +1,18 @@
+2024-09-17 19:18:09.540 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-09-17 19:18:10.167 [info] Installing extension: catppuccin.catppuccin-vsc {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/benki/.vscode-oss/extensions/extensions.json","path":"/home/benki/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"}}
+2024-09-17 19:18:11.872 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-09-17 19:18:11.873 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc
+2024-09-17 19:18:11.932 [info] Extracted extension to file:///home/benki/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.15.2-universal: catppuccin.catppuccin-vsc
+2024-09-17 19:18:11.996 [info] Renamed to /home/benki/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.15.2-universal
+2024-09-17 19:18:12.142 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/benki/.vscode-oss/extensions/extensions.json
+2024-09-17 19:19:41.409 [info] Getting Manifest... asvetliakov.vscode-neovim
+2024-09-17 19:19:41.722 [info] Installing extension: asvetliakov.vscode-neovim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/benki/.vscode-oss/extensions/extensions.json","path":"/home/benki/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"}}
+2024-09-17 19:19:43.364 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-09-17 19:19:43.365 [info] Extension signature verification is not done: asvetliakov.vscode-neovim
+2024-09-17 19:19:43.603 [info] Extracted extension to file:///home/benki/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.12-universal: asvetliakov.vscode-neovim
+2024-09-17 19:19:43.771 [info] Renamed to /home/benki/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.12-universal
+2024-09-17 19:19:43.931 [info] Extension installed successfully: asvetliakov.vscode-neovim vscode-userdata:/home/benki/.vscode-oss/extensions/extensions.json

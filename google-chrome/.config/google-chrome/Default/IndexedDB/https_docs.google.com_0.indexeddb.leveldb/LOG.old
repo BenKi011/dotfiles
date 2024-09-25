@@ -1,0 +1,15 @@
+2024/09/13-10:53:16.181 62c Reusing MANIFEST /home/benki/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/13-10:53:16.182 62c Recovering log #4
+2024/09/13-10:53:16.182 62c Reusing old log /home/benki/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000004.log 
+2024/09/13-12:28:10.712 62c Level-0 table #8: started
+2024/09/13-12:28:10.771 62c Level-0 table #8: 209 bytes OK
+2024/09/13-12:28:10.846 62c Delete type=0 #4
+2024/09/13-12:28:10.847 62c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/13-12:28:10.848 62c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 679 : 1
+2024/09/13-12:28:10.848 62c Compacting 1@1 + 1@2 files
+2024/09/13-12:28:10.905 62c Generated table #9@1: 206 keys, 3127 bytes
+2024/09/13-12:28:10.905 62c Compacted 1@1 + 1@2 files => 3127 bytes
+2024/09/13-12:28:10.979 62c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/13-12:28:10.979 62c Delete type=2 #5
+2024/09/13-12:28:10.980 62c Delete type=2 #8
+2024/09/13-12:28:10.981 62c Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 679 : 1 .. (end); will stop at (end)

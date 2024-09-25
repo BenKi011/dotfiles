@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=GTK;Utility;
+Exec=flatpak run --command=hidamari io.github.jeffshee.Hidamari -b
+Icon=io.github.jeffshee.Hidamari
+Name=io.github.jeffshee.Hidamari
+StartupNotify=true
+Terminal=false
+Type=Application
+X-Flatpak=io.github.jeffshee.Hidamari

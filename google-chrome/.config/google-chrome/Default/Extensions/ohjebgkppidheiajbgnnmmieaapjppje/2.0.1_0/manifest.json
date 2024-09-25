@@ -1,0 +1,46 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk4Gs9RGttRO07/Yf08kJG4SbGbWQkrxauWQCH/Whs3yqRCdyEoL4qc0pT/jQvVhpkC4IT6wzE6T1m1Drn5Q3JuCd1v7M/XbWHEcpVDPD9Shedr8jBJQzZBQlavvz8auBgGb0UErsFGa4S+ekpczhr2MEamUo1HVlAZtShdvNkpuaaUwuGWkodkqtHzn/La21bOBfVSOiE/AgiW6+io2WKnshJMifduASEuDggu4pg8HbtYXKyiigHLxDF6ecy36/JpKYxcSeuPRMx14gr7XjvaR6wCS6mauT+px2h1Rgq+BsEvkq5epRO0sauO98pMJY721PbPd6thCl98/Aq7aEYQIDAQAB",
+   "manifest_version": 3,
+   "name": "Rosé Pine Moon",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 224, 222, 244 ],
+         "button_background": [ 35, 33, 54 ],
+         "frame": [ 0, 0, 0 ],
+         "frame_inactive": [ 0, 0, 0 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 68, 65, 90 ],
+         "ntp_background": [ 35, 33, 54 ],
+         "ntp_header": [ 42, 39, 63 ],
+         "ntp_link": [ 144, 140, 170 ],
+         "ntp_text": [ 144, 140, 170 ],
+         "omnibox_background": [ 35, 33, 54 ],
+         "omnibox_text": [ 196, 167, 231 ],
+         "tab_background_text": [ 144, 140, 170 ],
+         "tab_background_text_inactive": [ 110, 106, 134 ],
+         "tab_background_text_incognito": [ 224, 222, 244 ],
+         "tab_background_text_incognito_inactive": [ 144, 140, 170 ],
+         "tab_text": [ 224, 222, 244 ],
+         "toolbar": [ 57, 53, 82 ],
+         "toolbar_button_icon": [ 224, 222, 244 ]
+      },
+      "images": {
+         "theme_frame": "swatches/base.png",
+         "theme_frame_incognito": "swatches/med.png",
+         "theme_toolbar": "swatches/surface.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, -1, -1 ],
+         "frame": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, 0.485 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.1"
+}

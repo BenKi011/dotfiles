@@ -1,0 +1,6 @@
+2024-09-02 01:58:25.877 [info] Extension host with pid 11632 started
+2024-09-02 01:58:26.476 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-02 01:58:26.571 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-02 01:58:27.012 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-02 01:58:27.172 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-02 01:58:27.176 [info] Extension host with pid 11632 exiting with code 0

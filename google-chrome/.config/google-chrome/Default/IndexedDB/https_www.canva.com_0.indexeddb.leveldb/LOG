@@ -1,0 +1,25 @@
+2024/09/12-09:29:11.625 bf7 Reusing MANIFEST /home/benki/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/12-09:29:11.625 bf7 Recovering log #202
+2024/09/12-09:29:11.625 bf7 Reusing old log /home/benki/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000202.log 
+2024/09/12-09:30:48.289 c08 Level-0 table #207: started
+2024/09/12-09:30:48.387 c08 Level-0 table #207: 60776 bytes OK
+2024/09/12-09:30:48.437 c06 Current memtable full; waiting...
+2024/09/12-09:30:48.512 c08 Delete type=0 #202
+2024/09/12-09:30:48.514 c07 Level-0 table #209: started
+2024/09/12-09:30:48.571 c07 Level-0 table #209: 481 bytes OK
+2024/09/12-09:30:48.648 c07 Delete type=0 #206
+2024/09/12-09:30:48.649 c07 Manual compaction at level-0 from '\x00E\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00F\x00\x00\x00' @ 0 : 0; will stop at '\x00F\x00\x00\x05' @ 709822 : 1
+2024/09/12-09:30:48.649 c07 Compacting 1@0 + 1@1 files
+2024/09/12-09:30:48.708 c07 Generated table #210@0: 616 keys, 9909 bytes
+2024/09/12-09:30:48.708 c07 Compacted 1@0 + 1@1 files => 9909 bytes
+2024/09/12-09:30:48.781 c07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/12-09:30:48.782 c07 Delete type=2 #207
+2024/09/12-09:30:48.783 c07 Delete type=2 #209
+2024/09/12-09:30:48.783 bf8 Manual compaction at level-0 from '\x00F\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00G\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/12-09:30:48.784 bf8 Manual compaction at level-0 from '\x00F\x00\x00\x05' @ 709822 : 1 .. '\x00F\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/12-09:31:31.368 c06 Compacting 1@1 + 1@2 files
+2024/09/12-09:31:31.466 c06 Generated table #211@1: 376 keys, 86648 bytes
+2024/09/12-09:31:31.467 c06 Compacted 1@1 + 1@2 files => 86648 bytes
+2024/09/12-09:31:31.540 c06 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/12-09:31:31.541 c06 Delete type=2 #204
+2024/09/12-09:31:31.541 c06 Delete type=2 #210

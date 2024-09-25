@@ -1,0 +1,16 @@
+2024-09-17 19:20:16.116 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/benki/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.12-universal/runtime/vscode-neovim.vim
+2024-09-17 19:20:16.371 [info] MainController: Nvim info: {
+  logFile: '/home/benki/.local/state/nvim/log',
+  configDir: '/home/benki/.config/nvim',
+  configFile: '/home/benki/.config/nvim/init.lua',
+  nvimVersion: {
+    minor: 10,
+    patch: 1,
+    build: 'v0.10.1',
+    api_prerelease: false,
+    api_compatible: 0,
+    prerelease: false,
+    api_level: 12,
+    major: 0
+  }
+}

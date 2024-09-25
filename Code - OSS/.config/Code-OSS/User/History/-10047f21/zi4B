@@ -1,0 +1,35 @@
+# Define colors using Catppuccin palette
+[colors]
+background = rgba(30, 30, 46, 0.8)  # Catppuccin background with transparency
+foreground = rgba(224, 223, 244, 0.9)  # Catppuccin text color with slight transparency
+accent = rgba(205, 214, 244, 0.9)  # Catppuccin accent with slight transparency
+highlight = rgba(88, 91, 112, 0.8)  # Catppuccin highlight with transparency
+
+# Window styling
+[window]
+border_width = 2
+border_color = rgba(49, 50, 68, 0.8)  # Catppuccin border color with transparency
+border_radius = 10
+padding = 10
+background_color = @background
+
+# Input field styling
+[input]
+background_color = rgba(49, 50, 68, 0.7)  # Transparent input field background
+foreground_color = @foreground
+border_color = @clear
+border_radius = 8
+
+# Selection styling
+[selection]
+background_color = @highlight
+foreground_color = @foreground
+
+# General styling
+[general]
+font_family = "monospace"
+font_size = 14
+
+# Transparency
+[transparency]
+enable = true

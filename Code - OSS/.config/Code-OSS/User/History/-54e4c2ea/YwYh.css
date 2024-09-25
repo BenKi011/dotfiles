@@ -1,0 +1,69 @@
+* {
+    color: ${xrdb:foreground};
+    background: ${xrdb:background};
+    font-family: "JetBrainsMono Nerd Font";
+}
+
+#bar {
+    border: 2px solid ${xrdb:color14};
+    border-radius: 10px;
+    padding: 0px;
+}
+
+#pm, #rfl, #ws, #ap, #dt, #spo, #btr, #brt, #sp, #wf, #vol, #up {
+    margin: 0 4px;
+}
+
+#pm {
+    background: ${xrdb:color14};
+    color: ${xrdb:background};
+}
+
+#rfl {
+    color: ${xrdb:color14};
+}
+
+#ws .focused {
+    color: ${xrdb:color10};
+    background: ${xrdb:background};
+}
+
+#ws .occupied {
+    color: ${xrdb:foreground};
+}
+
+#ws .urgent {
+    color: #F37F97;
+}
+
+#ap {
+    color: ${xrdb:color14};
+}
+
+#dt {
+    color: ${xrdb:color14};
+}
+
+#spo {
+    color: ${xrdb:color14};
+}
+
+#btr {
+    color: ${xrdb:color14};
+}
+
+#brt {
+    color: ${xrdb:color14};
+}
+
+#vol {
+    color: ${xrdb:color14};
+}
+
+#up {
+    color: #1793D1;
+}
+
+#wf {
+    color: ${xrdb:color7};
+}
